@@ -1,16 +1,36 @@
-## Hi there 👋
+# Merhaba! 👋 Ben Gürkan Aydın
 
-<!--
-**gurkan957/gurkan957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elektrik Elektronik Mühendisliği mezunu, yenilikçi ve problem çözme odaklı bir mühendisim. Karmaşık sorunlara analitik yaklaşımlarla çözümler üretmeyi ve dinamik ekiplerle çalışarak değer yaratmayı seviyorum. Sürekli öğrenme ve kendimi geliştirme motivasyonumla, teknolojinin sınırlarını zorlayan projelerde yer almayı hedefliyorum.
 
-Here are some ideas to get you started:
+🔧 **Becerilerim**  
+- **Programlama Dilleri**: C, C++, C#, Python, Java, JavaScript  
+- **Web Teknolojileri**: HTML, CSS  
+- **Araçlar**: Git, AutoCAD  
+- **Diğer**: Gömülü Sistemler, Raspberry Pi, ESP32, dsPIC33  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Öne Çıkan Projelerim**  
+- **[Kurumsal Yönetim Sistemi](link-to-repo)**: Django ve React ile geliştirilen, kurumsal süreçleri optimize eden bir yönetim sistemi.  
+- **[Ürün, Müşteri ve Kullanıcı Takip Sistemi](link-to-repo)**: Visual Studio kullanılarak geliştirilen, iş süreçlerini kolaylaştıran bir takip uygulaması.  
+- **[ESP32 ile Step Motor Kontrolü](link-to-repo)**: Hassas motor kontrolü için ESP32 tabanlı bir sistem.  
+- **[Raspberry Pi 5 ile Gerçek Zamanlı Yüz Tanıma](link-to-repo)**: Görüntü işleme ve yapay zeka ile yüz tanıma projesi.  
+- **[dsPIC33 ile Sıcaklık Ölçüm Sistemi](link-to-repo)**: Gerçek zamanlı sıcaklık izleme ve kontrol sistemi.  
+
+🌟 **Kişisel Özelliklerim**  
+- Liderlik ve takım çalışmasına yatkınlık  
+- Güçlü problem çözme ve analitik düşünme becerileri  
+- Etkin iletişim ve zaman yönetimi  
+
+🎯 **Hobilerim ve İlgi Alanlarım**  
+- Satranç oynayarak stratejik düşünme becerilerimi geliştiriyorum ♟️  
+- Film ve dizi izleyerek hayal gücümü besliyorum 🎬  
+- Doğa yürüyüşleriyle enerji topluyorum 🌳  
+
+📫 **Benimle İletişime Geçin**  
+- **E-posta**: [aydingurkan957@gmail.com](mailto:aydingurkan957@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/aydin-gurkan](https://linkedin.com/in/aydin-gurkan)  
+- **GitHub**: [github.com/gurkan957](https://github.com/gurkan957)  
+
+---
+
+💡 *“Her problem, yeni bir çözümün başlangıcıdır.”*  
+Yenilikçi projelerde birlikte çalışmak için bana ulaşabilirsiniz! 🚀
