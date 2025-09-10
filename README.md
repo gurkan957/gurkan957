@@ -21,9 +21,9 @@ Elektrik Elektronik Mühendisliği mezunu, yenilikçi ve problem çözme odaklı
 - Etkin iletişim ve zaman yönetimi  
 
 🎯 **Hobilerim ve İlgi Alanlarım**  
-- Satranç oynayarak stratejik düşünme becerilerimi geliştiriyorum ♟️  
-- Film ve dizi izleyerek hayal gücümü besliyorum 🎬  
-- Doğa yürüyüşleriyle enerji topluyorum 🌳  
+- Satranç  
+- Film ve Dizi  
+- Doğa Yürüyüşü
 
 📫 **Benimle İletişime Geçin**  
 - **E-posta**: [aydingurkan957@gmail.com](mailto:aydingurkan957@gmail.com)  
