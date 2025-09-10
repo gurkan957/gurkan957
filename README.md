@@ -5,15 +5,15 @@ Elektrik Elektronik Mühendisliği mezunu, yenilikçi ve problem çözme odaklı
 🔧 **Becerilerim**  
 - **Programlama Dilleri**: C, C++, C#, Python, Java, JavaScript  
 - **Web Teknolojileri**: HTML, CSS  
-- **Araçlar**: Git, AutoCAD  
-- **Diğer**: Gömülü Sistemler, Raspberry Pi, ESP32, dsPIC33  
+- **Araçlar**: Git, AutoCAD, Visual Studio Code, Visual Studio, PyCharm  
+- **Diğer**: Raspberry Pi, ESP32, dsPIC33, PIC16, STM32  
 
 🚀 **Öne Çıkan Projelerim**  
-- **[Kurumsal Yönetim Sistemi](link-to-repo)**: Django ve React ile geliştirilen, kurumsal süreçleri optimize eden bir yönetim sistemi.  
-- **[Ürün, Müşteri ve Kullanıcı Takip Sistemi](link-to-repo)**: Visual Studio kullanılarak geliştirilen, iş süreçlerini kolaylaştıran bir takip uygulaması.  
-- **[ESP32 ile Step Motor Kontrolü](link-to-repo)**: Hassas motor kontrolü için ESP32 tabanlı bir sistem.  
-- **[Raspberry Pi 5 ile Gerçek Zamanlı Yüz Tanıma](link-to-repo)**: Görüntü işleme ve yapay zeka ile yüz tanıma projesi.  
-- **[dsPIC33 ile Sıcaklık Ölçüm Sistemi](link-to-repo)**: Gerçek zamanlı sıcaklık izleme ve kontrol sistemi.  
+- **Kurumsal Yönetim Sistemi**: Django ve React ile geliştirilen, kurumsal süreçleri optimize eden bir yönetim sistemi.  
+- **Ürün, Müşteri ve Kullanıcı Takip Sistemi**: Visual Studio kullanılarak geliştirilen, iş süreçlerini kolaylaştıran bir takip uygulaması.  
+- **ESP32 ile Step Motor Kontrolü**: Hassas motor kontrolü için ESP32 tabanlı bir sistem.  
+- **Raspberry Pi 5 ile Gerçek Zamanlı Yüz Tanıma**: Görüntü işleme ve yapay zeka ile yüz tanıma projesi.  
+- **dsPIC33 ile Sıcaklık Ölçüm Sistemi**: Gerçek zamanlı sıcaklık izleme ve kontrol sistemi.  
 
 🌟 **Kişisel Özelliklerim**  
 - Liderlik ve takım çalışmasına yatkınlık  
